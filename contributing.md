@@ -131,7 +131,7 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-*ark-survival-evolved-enhancer-pack · Updated 2026-11-10 · Shared under the MIT License*
+*ark-survival-evolved-enhancer-pack · Updated 2026-11-11 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-11*
